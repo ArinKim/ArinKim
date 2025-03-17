@@ -24,14 +24,16 @@ contacts: {
 }
 ```
 
-## 🌱 Languages/Frameworks learning and working ...
+## 🔭 Languages/Frameworks I am working ...
 - Dart (Flutter)
 - Javascript
 - Python
-  
-## 🤔 Languages/Frameworks I am interested ...
+
+## 🌱 Languages/Frameworks I am learning ...
 - Typescript
 - .NET
+  
+## 🤔 Languages/Frameworks I am interested ...
 - Java
 
 <!--
