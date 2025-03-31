@@ -31,10 +31,10 @@ contacts: {
 
 ## 🌱 Languages/Frameworks I am learning ...
 - Typescript
-- .NET
+- Java
   
 ## 🤔 Languages/Frameworks I am interested ...
-- Java
+- .NET
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arinkim&label=Profile%20views&color=0e75b6&style=flat" alt="manhhaycode" /> </p>
 
