@@ -4,7 +4,7 @@
 ```yaml
 name: Arin Kim
 education: Queensland University of Technology
-Skills: {
+skills: {
   Tech: [
     Dart, Flutter, Javascript, Node.js, Typescript, Python, C# and others
   ],
