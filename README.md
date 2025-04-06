@@ -5,7 +5,7 @@
 name: Arin Kim
 education: Queensland University of Technology
 skills: {
-  Tech: [
+  tech: [
     Dart, Flutter, Javascript, Node.js, Typescript, Python, C# and others
   ],
   clouds: [
@@ -14,7 +14,7 @@ skills: {
   database: [
     SQL, Oracle, Firestore, DynamoDB
   ],
-  Others: [
+  others: [
     Fast learner, Game Challenger, Team worker
   ]
 }
