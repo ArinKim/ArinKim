@@ -1,29 +1,7 @@
 # Hi, I am Arin!
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,materialui,react,py,androidstudio,apple,aws,cs,dotnet,dart,flutter,gcp,terraform,docker,dynamodb,firebase,qt,java,postman&per,mysqlline=6)](https://skillicons.dev)
 
-```yaml
-name: Arin Kim
-education: Queensland University of Technology
-skills: {
-  tech: [
-    Dart, Flutter, Javascript, Node.js, Typescript, Python, C# and others
-  ],
-  clouds: [
-    GCP, Terraform, AWS
-  ],
-  database: [
-    SQL, Oracle, Firestore, DynamoDB
-  ],
-  others: [
-    Fast learner, Game Challenger, Team worker
-  ]
-}
-contacts: {
-  linkedIn: https://www.linkedin.com/in/arin-kim/
-  email: arin.kim0801@gmail.com
-}
-```
-Check out [here](https://nettle-walrus-fec.notion.site/Arin-Kim-1c9593b9384f8044a5aff293a119bd80) to get to know about me!
+Check out [here](https://nettle-walrus-fec.notion.site/1d5593b9384f80d6b2eff17ffc728ae7) to get to know about me!
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arinkim&label=Profile%20views&color=0e75b6&style=flat" alt="manhhaycode" /> </p>
 
