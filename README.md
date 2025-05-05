@@ -3,6 +3,17 @@
 
 Check out [here](https://nettle-walrus-fec.notion.site/1d5593b9384f80d6b2eff17ffc728ae7) to get to know about me!
 
+<td>
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://streak-stats.demolab.com?user=arinkim&locale=ko" 
+          width="450"
+          height="200"
+          alt="GitHub Streak" 
+        />
+      </a>
+    </td>
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arinkim&label=Profile%20views&color=0e75b6&style=flat" alt="manhhaycode" /> </p>
 
 <!--
