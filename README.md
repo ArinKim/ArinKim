@@ -2,6 +2,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ts,html,css,materialui,react,py,androidstudio,apple,aws,cs,dotnet,dart,flutter,gcp,terraform,docker,dynamodb,firebase,qt,java,postman&per,mysqlline=6)](https://skillicons.dev)
 
 Check out [here](https://nettle-walrus-fec.notion.site/1d5593b9384f80d6b2eff17ffc728ae7) to get to know about me!
+email: arin.kim0801@gmail.com
 
 <td>
       <a href="https://git.io/streak-stats">
