@@ -5,16 +5,7 @@ Check out [here](https://nettle-walrus-fec.notion.site/1d5593b9384f80d6b2eff17ff
 
 email: arin.kim0801@gmail.com
 
-<td>
-      <a href="https://git.io/streak-stats">
-        <img 
-          src="https://streak-stats.demolab.com?user=arinkim&locale=ko" 
-          width="450"
-          height="200"
-          alt="GitHub Streak" 
-        />
-      </a>
-    </td>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=arinkim)](https://git.io/streak-stats)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=arinkim&label=Profile%20views&color=0e75b6&style=flat" alt="manhhaycode" /> </p>
 
